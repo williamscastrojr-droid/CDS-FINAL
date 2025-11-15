@@ -1,6 +1,1 @@
-git clone https://github.com/williamscastrojr-droid/CDS-FINAL.git
-cd CDS-FINAL
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-python app.py
+
